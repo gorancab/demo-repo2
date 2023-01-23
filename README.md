@@ -1,3 +1,3 @@
 #Demo
 
-Somet text.
+Some text.
